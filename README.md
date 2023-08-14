@@ -1,2 +1,2 @@
-# repositorio para practicar el ejemplo-comand-pull uwu
-Repositorio para practicar el comando git pull
+# repositorio para practicar el ejemplo-comand-pull uwu 
+Repositorio para practicar el comando git pull no todo se trata del uwu
